@@ -1,0 +1,5 @@
+0 Stol
+1 Piec
+2 Skrzynia
+3 Kowadlo
+4 Lozko
